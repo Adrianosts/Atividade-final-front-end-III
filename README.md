@@ -2,6 +2,8 @@
 
 - Para a atividade de final de módulo foi usado a **API** de **Rick and Morty**
 
+<img src="./img/github-image.png">
+
 * Mas oque é uma **API** ?
   
 - Uma API (Interface de Programação de Aplicações) é um conjunto de regras e definições que permite que diferentes sistemas de software se comuniquem entre si.
@@ -23,7 +25,7 @@ as informações completa como espécie, gênero, tipo e etc ....
 
 - Possui também botões de paginação para que seja mostrado mais personagens em outras páginas.
 
-<img src="./img/github-image.png">
+
 
 
 
