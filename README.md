@@ -1,4 +1,4 @@
-#Rick and Morty
+<h1>Rick and Morty<h1/>
 
 - Para a atividade de final de módulo foi usado a **API** de **Rick and Morty**
 
