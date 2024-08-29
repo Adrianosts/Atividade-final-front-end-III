@@ -25,6 +25,15 @@ as informações completa como espécie, gênero, tipo e etc ....
 
 - Possui também botões de paginação para que seja mostrado mais personagens em outras páginas.
 
+- Em alguns pontos especificos foram usados **keyframes**(animações) para dar movimento a certas partes da atividade, logotipo do rick and morty, transição dos cards e nos botões de
+paginação.
+
+**Keyframes**
+
+- Um keyframe é um quadro-chave usado em animação para definir pontos importantes em uma sequência de movimento. Ele marca o início ou o fim de uma transição, e os quadros entre os
+keyframes são interpolados para criar movimento suave. Em CSS, keyframes são usados para definir as etapas de uma animação, especificando os estilos que um elemento deve ter em
+diferentes pontos durante a animação.
+
 
 
 
