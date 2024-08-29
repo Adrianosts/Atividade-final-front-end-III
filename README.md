@@ -18,6 +18,9 @@ e funcionais que se adaptam automaticamente a diferentes tamanhos de tela, sem p
 
 - Nessa atividade contém uma barra de pesquisa onde podemos pesquisar o personagem pelo seu nome de origem, e ao clicar em cima de seu card será aberto um modal onde podemos ver também
 as informações completa como espécie, gênero, tipo e etc ....
+
+<img src="./img/github-modal.png">
+
 - Possui também botões de paginação para que seja mostrado mais personagens em outras páginas.
 
 <img src="./img/github-image.png">
