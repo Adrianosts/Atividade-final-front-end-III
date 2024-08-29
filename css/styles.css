@@ -1,0 +1,167 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* READER */
+header h1 {
+  color: #034410;
+  font-weight: bold;
+  font-size: 3.75rem;
+}
+
+#search-button {
+  margin-left: -2.5rem;
+}
+
+#icon-rick-and-morty {
+  height: 3.75rem;
+}
+
+nav {
+  margin-bottom: 5rem;
+}
+
+/* MAIN */
+.characters-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 6.25rem;
+  margin-bottom: 5rem;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  border: none;
+}
+
+.characters-list img {
+  max-width: 6.25rem;
+  height: auto;
+}
+
+main {
+  height: 250vh;
+  background-image: url(../img/FUNDO.jpg);
+  background-size: cover;
+}
+
+.card {
+  width: 31.25rem;
+  border: none !important;
+  cursor: pointer;
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+/* FOOTER */
+#link-footer {
+  margin-top: 4.375rem;
+  margin-bottom: 6.25rem;
+}
+
+footer {
+  background-color: #034410;
+}
+
+footer ul a {
+  color: grey;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 0 1.5rem;
+}
+
+footer ul a:hover {
+  color: #59da45;
+}
+
+.link-github {
+  text-decoration: none;
+}
+
+.link-github:hover {
+  color: #59da45 !important;
+}
+
+
+@media (max-width: 768px) {
+  header h1 {
+    font-size: 2.5rem;
+  }
+
+  .characters-list img {
+    border-radius: 6px 6px 0 0 !important;
+  }
+
+  .characters-list {
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1.875rem;
+  }
+
+  .card {
+    width: 12.5rem;
+    display: flex !important;
+    flex-wrap: wrap;
+  }
+
+  footer ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@keyframes pulse-icon {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+#icon-rick-and-morty {
+  animation: pulse-icon 2s infinite ease-in-out;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.card {
+  animation: fadeIn 2s ease forwards;
+}
+
+@keyframes bouncing-effect {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-10px);
+  }
+  60% {
+    transform: translateY(-5px);
+  }
+}
+
+#prev-page:hover,
+#next-page:hover {
+  animation: bouncing-effect 1s;
+}
