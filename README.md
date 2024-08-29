@@ -4,8 +4,8 @@
 
 * Mas oque é uma **API** ?
   
-- Uma API (Interface de Programação de Aplicações) é um conjunto de regras e definições que permite que diferentes sistemas de software se comuniquem entre si.<br /> 
-Ela define como as solicitações e as respostas devem ser feitas entre aplicações, permitindo a troca de dados e funcionalidades de forma padronizada.<br /> 
+- Uma API (Interface de Programação de Aplicações) é um conjunto de regras e definições que permite que diferentes sistemas de software se comuniquem entre si.<br> 
+Ela define como as solicitações e as respostas devem ser feitas entre aplicações, permitindo a troca de dados e funcionalidades de forma padronizada.<br> 
 Por exemplo, uma API pode permitir que um site ou aplicativo acesse informações de outro serviço, como a busca de dados em um banco de dados remoto.
 
 - Nessa atividade usamos o Framework **Bootstrap** para responsividade em diferentes tamanhos de tela.
