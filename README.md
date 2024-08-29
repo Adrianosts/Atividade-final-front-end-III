@@ -18,7 +18,8 @@ Por exemplo, uma API pode permitir que um site ou aplicativo acesse informaçõe
 e componentes prontos, como layouts, botões, formulários e navegação, baseados em HTML, CSS e JavaScript. Com o Bootstrap, é mais fácil criar interfaces consistentes
 e funcionais que se adaptam automaticamente a diferentes tamanhos de tela, sem precisar escrever muito código do zero.
 
-- Nessa atividade contém uma barra de pesquisa onde podemos pesquisar o personagem pelo seu nome de origem, e ao clicar em cima de seu card será aberto um modal onde podemos ver também
+**Barra de pesquisa**
+- Pode ser usado a barra de pesquisa para encontrar o personagem pelo seu nome de origem, e ao clicar em cima de seu card será aberto um modal onde podemos ver também
 as informações completa como espécie, gênero, tipo e etc ....
 
 <img src="./img/github-modal.png">
