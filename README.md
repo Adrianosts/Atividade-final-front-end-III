@@ -1,4 +1,4 @@
-#**Rick and Morty**
+#Rick and Morty
 
 - Para a atividade de final de módulo foi usado a **API** de **Rick and Morty**
 
@@ -10,7 +10,7 @@ Por exemplo, uma API pode permitir que um site ou aplicativo acesse informaçõe
 
 - Nessa atividade usamos o Framework **Bootstrap** para responsividade em diferentes tamanhos de tela.
 
-* Bootstrap
+**Bootstrap**
 
 - O Bootstrap é um framework front-end popular que facilita o desenvolvimento de sites e aplicativos web responsivos e modernos. Ele oferece uma coleção de ferramentas<br /> 
 e componentes prontos, como layouts, botões, formulários e navegação, baseados em HTML, CSS e JavaScript. Com o Bootstrap, é mais fácil criar interfaces consistentes<br /> 
