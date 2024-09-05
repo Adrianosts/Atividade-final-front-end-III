@@ -35,6 +35,13 @@ paginação.
 keyframes são interpolados para criar movimento suave. Em CSS, keyframes são usados para definir as etapas de uma animação, especificando os estilos que um elemento deve ter em
 diferentes pontos durante a animação.
 
+**Tecnologias utilizada**
+
+- HTML
+- CSS
+- JAVASCRIPT
+- BOOTSTRAP
+
 
 
 
