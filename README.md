@@ -2,6 +2,8 @@
 
 - Para a atividade de final de módulo foi usado a **API** de **Rick and Morty**
 
+- Link da aplicação https://growflix-nu.vercel.app/
+
 <img src="./img/github-image.png">
 
 * Mas oque é uma **API** ?
