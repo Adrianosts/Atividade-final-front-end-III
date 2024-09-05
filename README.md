@@ -1,6 +1,4 @@
-# Rick and Morty
-
-- Para a atividade de final de módulo foi usado a **API** de **Rick and Morty**
+# API Rick and Morty
 
 [Link da aplicação](https://rick-and-morty-blush-phi.vercel.app/)
 
@@ -28,7 +26,7 @@ as informações completa como espécie, gênero, tipo e etc ....
 
 - Possui também botões de paginação para que seja mostrado mais personagens em outras páginas.
 
-- Em alguns pontos especificos foram usados **keyframes**(animações) para dar movimento a certas partes da atividade, logotipo do rick and morty, transição dos cards e nos botões de
+- Em alguns pontos especificos foram usados **keyframes**(animações) para dar movimento a certas partes do projeto, logotipo do rick and morty, transição dos cards e nos botões de
 paginação.
 
 **Keyframes**
