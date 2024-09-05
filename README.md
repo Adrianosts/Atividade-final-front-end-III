@@ -2,7 +2,7 @@
 
 - Para a atividade de final de módulo foi usado a **API** de **Rick and Morty**
 
-[Link da aplicação](https://growflix-nu.vercel.app/)
+[Link da aplicação](https://rick-and-morty-blush-phi.vercel.app/)
 
 <img src="./img/github-image.png">
 
